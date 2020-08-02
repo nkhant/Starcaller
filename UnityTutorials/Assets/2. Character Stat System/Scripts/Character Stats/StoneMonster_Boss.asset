@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43e01181c77032d4ca069176f6855859, type: 3}
+  m_Name: StoneMonster_Boss
+  m_EditorClassIdentifier: 
+  setManually: 1
+  saveDataOnClose: 0
+  maxHealth: 200
+  currentHealth: 0
+  maxMana: 0
+  currentMana: 0
+  maxWealth: 0
+  currentWealth: 0
+  baseDamage: 10
+  currentDamage: 5
+  baseResistance: 0
+  currentResistance: 0
+  maxEncumbrance: 0
+  currentEncumbrance: 0
+  characterExperience: 0
+  characterLevel: 0
+  characterDeathTimer: 0
+  characterLevelUps: []

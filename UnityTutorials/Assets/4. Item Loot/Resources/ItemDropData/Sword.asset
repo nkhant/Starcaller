@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 687c759408e30d44b92bc7a36c9409ff, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  itemName: Sword
+  itemDescription: Avelyn's Base Sword
+  itemType: 3
+  itemArmorSubType: 0
+  itemAmount: 1
+  SpawnChanceRate: 0
+  itemMaterial: {fileID: 0}
+  itemIcon: {fileID: 0}
+  itemSpawnObject: {fileID: 3314247422613659302, guid: 335e3aa4d622bb04795cdcc67450074d,
+    type: 3}
+  weaponSlotObject: {fileID: 11400000, guid: 3dfa9cb02f4d708449e1f04134a07960, type: 2}
+  spellSlotObject: {fileID: 11400000, guid: 25f18a83ea88c284b9556e840ad0e862, type: 2}
+  isEquipped: 0
+  isInteractable: 0
+  isStorable: 0
+  isUnique: 0
+  isIndestructable: 0
+  isQuestItem: 0
+  isStackable: 0
+  destroyOnUse: 0
+  itemWeight: 0

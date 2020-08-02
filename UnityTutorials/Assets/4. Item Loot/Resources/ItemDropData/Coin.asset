@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 687c759408e30d44b92bc7a36c9409ff, type: 3}
+  m_Name: Coin
+  m_EditorClassIdentifier: 
+  itemName: Coin
+  itemDescription: Standard Currency
+  itemType: 1
+  itemArmorSubType: 0
+  itemAmount: 100
+  SpawnChanceRate: 0
+  itemMaterial: {fileID: 0}
+  itemIcon: {fileID: 21300000, guid: 91b58943604caf643b7821ea37d60a3d, type: 3}
+  itemSpawnObject: {fileID: 4881439371369493017, guid: fe0d19be389afb545a023db64d202dc3,
+    type: 3}
+  weaponSlotObject: {fileID: 0}
+  isEquipped: 0
+  isInteractable: 1
+  isStorable: 1
+  isUnique: 0
+  isIndestructable: 0
+  isQuestItem: 0
+  isStackable: 1
+  destroyOnUse: 1
+  itemWeight: 0

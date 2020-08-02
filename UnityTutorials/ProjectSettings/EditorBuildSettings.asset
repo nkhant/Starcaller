@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/_Scenes/GC_Remake/Boot.unity
+    guid: 49b08927103cc364d96881d41423575a
+  - enabled: 1
+    path: Assets/_Scenes/GC_Remake/GC_Remake.unity
+    guid: 54d1e1c3a08a03c4b94abcd7737c6e35
+  - enabled: 1
+    path: Assets/_Scenes/GC_Remake/Forest_2.unity
+    guid: 9671afd87e0c6a542a7df1296d094760
+  - enabled: 1
+    path: Assets/_Scenes/GC_Remake/Forest_3.unity
+    guid: 4fa957952cb197940a6c9367ce4a811e
+  m_configObjects: {}

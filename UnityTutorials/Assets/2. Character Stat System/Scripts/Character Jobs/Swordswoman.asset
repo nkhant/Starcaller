@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 051b7875d7e1ee547bb5415485ad666c, type: 3}
+  m_Name: Swordswoman
+  m_EditorClassIdentifier: 
+  setManually: 0
+  saveSataOnClose: 0
+  basicAttack: {fileID: 11400000, guid: 6348baea1da5af344a78fe8c88913503, type: 2}
+  skill_1: {fileID: 11400000, guid: 6b51d2b82f0844f4baeb0dddc16f3312, type: 2}
+  skill_2: {fileID: 11400000, guid: 1c8f3668aff6e854a80508d7bfdaa4dd, type: 2}
+  skill_3: {fileID: 11400000, guid: ff9390d61de7adc4e85e7ad423ab384c, type: 2}
+  jobSkillAttributes:
+  - skillName: 
+    skillDescription: 
+    skillSlotNumber: 
+    hpCost: 0
+    manaCost: 0
+    energyCost: 0
+    cooldown: 0
+    range: 0
+    minDamage: 0
+    maxDamage: 0
+    criticalMultipier: 0
+    criticalChance: 0
+  - skillName: 
+    skillDescription: 
+    skillSlotNumber: 
+    hpCost: 0
+    manaCost: 0
+    energyCost: 0
+    cooldown: 0
+    range: 0
+    minDamage: 0
+    maxDamage: 0
+    criticalMultipier: 0
+    criticalChance: 0
+  - skillName: 
+    skillDescription: 
+    skillSlotNumber: 
+    hpCost: 0
+    manaCost: 0
+    energyCost: 0
+    cooldown: 0
+    range: 0
+    minDamage: 0
+    maxDamage: 0
+    criticalMultipier: 0
+    criticalChance: 0
+  - skillName: 
+    skillDescription: 
+    skillSlotNumber: 
+    hpCost: 0
+    manaCost: 0
+    energyCost: 0
+    cooldown: 0
+    range: 0
+    minDamage: 0
+    maxDamage: 0
+    criticalMultipier: 0
+    criticalChance: 0
